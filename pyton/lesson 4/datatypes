@@ -1,0 +1,4 @@
+#string data types
+#literal assignment
+first = "Dave"
+last= "Gray"
